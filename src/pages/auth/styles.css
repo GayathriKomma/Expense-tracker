@@ -4,7 +4,8 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    color: #023047;
+    /* color: #023047; */
+    color:#4169E1;
   }
   
   .expense-tracker h1 {
@@ -40,7 +41,8 @@
   
   .sign-out-button:hover {
     background: #3cb0fd;
-  
+    /* background-color: orange;
+   */
     background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
     text-decoration: none;
     cursor: pointer;
@@ -53,5 +55,5 @@
     width: 600px;
     height: 400px;
     overflow: auto;
-    border: 3px solid #023047;
+    border: 3px solid #4169E1;
   }
