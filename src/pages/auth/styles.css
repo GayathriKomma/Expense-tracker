@@ -4,7 +4,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    color: #023047;
+    color: #4169E1;
   }
   
   .expense-tracker h1 {
@@ -53,5 +53,5 @@
     width: 600px;
     height: 400px;
     overflow: auto;
-    border: 3px solid #023047;
+    border: 3px solid #4169E1;
   }
